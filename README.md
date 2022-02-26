@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 
   
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/rahat-shahriar-zawad-7709291a7)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https:///)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://rahatshahriar6@gmail.com)
 [![Visits](https://komarev.com/ghpvc/?username=RahatShahriarZawad&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/RahatShahriarZawad)
